@@ -7,7 +7,7 @@ Alois Knoll
 Alin Albu-Schäffer
 Henrik Jörntell
 
-# Dependencies:
+## Dependencies:
 Eigen
 boost::odeint
 highfive (for writing hdf5 files)
