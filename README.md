@@ -1,4 +1,4 @@
-#The BCM rule allows a spinal cord model to learn rhythmic movements
+# The BCM rule allows a spinal cord model to learn rhythmic movements
 
 Matthias Kohler
 Philipp Stratmann
